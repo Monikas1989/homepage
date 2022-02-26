@@ -1,6 +1,6 @@
-.naglowek {
+.heading {
     color: rgb(78, 17, 219);
 }
-.podtytul { color: rgb(2, 15, 3); background-color: rgb(235, 112, 25); }
-.podtytul2 { color:rgb(179, 22, 153); background-color: seashell; }
-.podtytul3 { color:rgba(3, 59, 8, 0.945); background-color: silver; }
+.subtitle { color: rgb(2, 15, 3); background-color: rgb(235, 112, 25); }
+.subtitle2 { color:rgb(179, 22, 153); background-color: seashell; }
+.subtitle3 { color:rgba(3, 59, 8, 0.945); background-color: silver; }
