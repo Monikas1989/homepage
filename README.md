@@ -1,11 +1,10 @@
-#Monika Kazuła - moja pierwsza strona
+#Monika Kazuła - My first page
 
 ![Monika](images/Monika.jpg)
- Strona "o mnie " powstała jako jedna z pierwszych moich samodzielnych prac stworzonych na potrzeby szkolenia - YouCode. Widać w niej jedynie podstawy i jeszcze niewielką wiedzę na temat 
- programowania. Jednak w tamtej chwili, byłam z siebie dumna, że udało mi się coś stworzyć osobiście.
- ## co ja robię tu?
- Jestem tutaj po to, aby zostać frontendowcem i ciągle dokształcać się w tym kierunku. Jest to moja pasja, coś co lubię. Własny rozwój i ciągłe nabywanie nowych umiejętności jest
- moim życiowym celem. Lubię również pracę z ludźmi, dlatego bedę usatysfakcjonowana, mogąc w przyszłości tworzyć projekty wraz z innymi.
+ The page "About Me" was created as one of the first my independent work, created for training - YouCode. You can only see the basics in it and still little knowledge on programming.
+ However, at that moment, I was proud of myself, that I managed to create something myself.
+ ## What am i doing here?
+ I am here for it, to stay a front end developer and constantly educate myself in this direction. It is my passion, something I like . Own development and constant acquisition of new skills, they are my goal in life. I also like working with people,therefore I will be satisfied being able to create projects with others in the future.
  ### demo 
  https://monikas1989.github.io/homepage/
  
