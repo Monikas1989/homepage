@@ -1,4 +1,4 @@
-#Monika Kazuła - My first page
+# Monika Kazuła - My first page
 
 ![Monika](images/Monika.jpg)
  The page "About Me" was created as one of the first my independent work, created for training - YouCode. You can only see the basics in it and still little knowledge on programming.
